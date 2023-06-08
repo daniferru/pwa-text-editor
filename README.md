@@ -12,9 +12,7 @@ This application takes an existing text editor app and adds functionality for it
 * css-loader
 * style-loader
 * Webpack
-* html-webpack-plugin
 * webpack-pwa-manifest
-* code-mirror-themes
 
 ## Installation
 Clone the repository to your local machine. To use this application, run 'npm install' command line to install the dependencies. The run 'npm run start:dev'.
