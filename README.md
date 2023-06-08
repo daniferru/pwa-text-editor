@@ -21,7 +21,8 @@ Clone the repository to your local machine. To use this application, run 'npm in
 Type 'npm run' commannd in your terminal, then open Insomnia and type 'http://localhost:3000/' to run this application on your local machine.
 
 ## Deployed Link
-Click the following link do be redirected to the Heroku deployed application: [HerokuDeployedLink](https://stormy-island-76057.herokuapp.com/)
+Click the following link do be redirected to the Heroku deployed application: [HerokuDeployedLink](https://stormy-island-76057.herokuapp.com/)<br>
+<img src="/client/src/images/jate.PNG">
 
 ## License
 This application is licensed under the MIT license.
