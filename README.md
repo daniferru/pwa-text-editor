@@ -22,7 +22,11 @@ Type 'npm run' commannd in your terminal, then open Insomnia and type 'http://lo
 
 ## Deployed Link
 Click the following link do be redirected to the Heroku deployed application: [HerokuDeployedLink](https://stormy-island-76057.herokuapp.com/)<br>
+<<<<<<< HEAD
 <img src="client/src/images/jate.PNG">
+=======
+<img src="/client/src/images/jateheader.PNG">
+>>>>>>> e1347160289ec2262016313b85be2772cb10db88
 
 ## License
 This application is licensed under the MIT license.
